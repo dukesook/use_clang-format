@@ -12,3 +12,6 @@ Tutorial
 1. > $ sudo apt install clang-format
 2. create the .clang-format file
 3. See Options: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+4. Examples:
+
+- ComplianceWarden: https://github.com/gpac/ComplianceWarden/blob/master/.clang-format
